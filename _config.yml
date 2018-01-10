@@ -72,28 +72,28 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: Daniel Cho
+    url: https://twitter.com/
     desc: Follow me on Twitter
     share: false
 
   - name: Facebook
     icon: facebook
-    username: daniel.cho
+    username: Daniel Cho
     url:
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: kkabi119
+    username: Daniel Cho
     url: https://github.com/kkabi119
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: Daniel Cho
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
     share: false
