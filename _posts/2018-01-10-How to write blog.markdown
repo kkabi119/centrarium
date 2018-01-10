@@ -6,5 +6,5 @@ author: Daniel Cho
 categories: How to write Blog
 ---
 
-# This is Tour First Blog
+# This is Your First Blog
 ## Congraturations~!
