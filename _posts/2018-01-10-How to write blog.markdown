@@ -7,4 +7,4 @@ categories: blog
 ---
 
 # This is Your First Blog
-## Congraturations~!
+## Congratulations~!
